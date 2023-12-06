@@ -20,45 +20,55 @@ Actually:
 
 <br />
 <br />
+<br />
 
-## Want to Connect?
+## 🤝 Let's Connect
   [<img align="left" alt="Linkstack" width="40px" src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/logo/svg/logo_animated.svg" style="padding-right:10px;" />](https://linksta.cc/@HadiBereksi)
+  [<img align="left" alt="hadibereksi | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="padding-right:10px;"/>](https://www.linkedin.com/in/hadibereksi)
+  [<img align="left" alt="malt" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" style="padding-right:10px;" />](https://www.malt.fr/profile/hadibereksi)
 
 <br />
 <br />
 
 ## 🔨 Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/48/000000/golang.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TS" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://img.icons8.com/ios/50/000000/django.png" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Azure-cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/48/000000/golang.png" style="padding-right:10px;" />
+  <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" style="padding-right:10px;" />
+  <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="TS" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" style="padding-right:10px;" />
+  <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Django" width="26px" src="https://img.icons8.com/ios/50/000000/django.png" style="padding-right:10px;" />
+  <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="Azure-cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />
 
 <br />
 <br />
 
 ### 📊 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-ilies&langs_count=8&theme=radical)
-![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadi-ilies&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadi-ilies&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-ilies&langs_count=8&theme=radical)
+  ![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadi-ilies&show_icons=true&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadi-ilies&theme=radical)
 
 <br >
 <br />
 
-## My daily routine :
+### 📌 Recent GitHub Activity  
+  
+  <!--START_SECTION:activity-->  
+  <!--END_SECTION:activity-->  
+
+<br >
+<br />
+
+## ⏳ My Daily Routine  
 ```mermaid
   graph TD;
       Code-->Eat;
